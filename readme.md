@@ -17,3 +17,7 @@ Then in the body of postman with raw json file use this value or you can change 
 
 
 After sending this you can see the output predict value.
+
+You can see my final result is this: {
+    "prediction": "[0]"
+}
